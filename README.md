@@ -1,3 +1,6 @@
+# DEPRECATED
+## Warning! This project has been deprecated and will not be updated.
+
 # docker-emberjs
 frontend javascript development docker image that uses:
 - node 5.3
